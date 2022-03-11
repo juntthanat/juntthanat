@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hi there, My name is Janthanat Thanintantrakun, nicknamed Beam
 
-<!--
-**juntthanat/juntthanat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a **Software Engineer** student at *[King's Mongkut Institude of Technology Ladkrabang](https://www.kmitl.ac.th/)* 
 
-Here are some ideas to get you started:
+<div> 
+  <img align="top" height="150" src="https://github-readme-stats.vercel.app/api?username=juntthanat&theme=cobalt2&hide_border=true" />
+  <img align="top" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juntthanat&layout=compact&theme=cobalt2&hide_border=true" />
+</div>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+``` json
+{
+  "Language": {
+    "C/C++": "Beginner",
+    "Java": "Intermediate",
+    "Python": "Intermediate",
+    "HTML": "Intermediate",
+    "CSS": "Intermediate",
+    "JavaScript": "Beginner",
+    "R": "Beginner"
+  },
+
+  "Framework": {
+    "React": "Beginner",
+    "REST": "Beginner"
+  },
+
+  "WIP": {
+    "basicCalculator": "React",
+    "Ranet": "Python (Team Project)"
+  }
+}
+
+```
